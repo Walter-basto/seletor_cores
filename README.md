@@ -1,2 +1,0 @@
-# seletor_cores
-RGB
